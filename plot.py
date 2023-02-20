@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-file = open("/home/christian/Documents/JetBrains/CLionProjects/sorting", "r")
+file = open("/home/christian/Documents/JetBrains/CLionProjects/sorting/results.txt", "r")
 results = file.readlines()
 measurements = 20
 
